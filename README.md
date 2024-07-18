@@ -2,4 +2,4 @@
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning DSA using python ,Html,SQL
 - 📫 How to reach me , well here's my mail theerthamdheeraj@gmail.com
-- ⚡ Fun fact: Who does 2 degrees simultaneously , ME
+- ⚡ Fun fact: Who's boring 
